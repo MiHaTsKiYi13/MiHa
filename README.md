@@ -21,17 +21,3 @@ By using this script, you agree to the following terms and conditions:
     Compliance with Laws: You are responsible for ensuring that your use of this script complies with all applicable laws and regulations in your jurisdiction.
 
 By continuing to use this script, you acknowledge that you have read and understood this disclaimer and agree to its terms.
-
-
-
-
-
-
-
-Fixer & Tweaker Overview
-
-Fixer is a tool designed to help you resolve various issues with your computer. It aims to automate the processes of diagnosing and troubleshooting problems to improve the performance and stability of your system. With Fixer, you can quickly identify and fix common errors, optimize the operation of your operating system, and ensure more reliable functionality.
-
-Tweaker is the actual tweaking tool that provides you with a set of settings and optimizations to enhance the performance of your operating system. With Tweaker, you can adjust Windows parameters, disable unnecessary features, and boost your computer's efficiency. It includes a wide array of options, allowing you to tailor your system to meet your personal preferences and needs.
-
-Use Fixer to troubleshoot issues and Tweaker for customization and optimization of your system, achieving maximum efficiency and comfort in your work!
