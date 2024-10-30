@@ -1,7 +1,5 @@
 WARNING: DISCLAIMER
 
-By using this script, you agree to the following terms and conditions:
-
     Use at Your Own Risk: This script is provided "as is" and is intended for educational purposes only. You acknowledge that you are using it at your own risk.
 
     No Guarantees: I do not guarantee the effectiveness of this script in fixing any issues or improving the performance of your computer. Results may vary based on individual systems and configurations.
@@ -20,4 +18,4 @@ By using this script, you agree to the following terms and conditions:
 
     Compliance with Laws: You are responsible for ensuring that your use of this script complies with all applicable laws and regulations in your jurisdiction.
 
-By continuing to use this script, you acknowledge that you have read and understood this disclaimer and agree to its terms.
+
