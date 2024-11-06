@@ -1,17 +1,6 @@
-WARNING: DISCLAIMER
-
- 
-Use at Your Own Risk: This script is provided "as is" and is intended for educational purposes only. You acknowledge that you are using it at your own risk.
-
-
-
-
-
-
-
-
-This **Windows Tweaker** batch file is a multifunctional script designed to enhance system performance, clean up unnecessary files, and configure various settings 
+This **Windows Tweaker** is a multifunctional script designed to enhance system performance, clean up unnecessary files, and configure various settings 
 on a Windows operating system. Below is a detailed description of the script's functions:
+
 
 ### 1. **Create a System Restore Point**
    - The script starts by asking the user if they want to create a system restore point before proceeding with any changes. This is useful in case the user wants to revert to a previous system state in the event of any issues after running the script.
