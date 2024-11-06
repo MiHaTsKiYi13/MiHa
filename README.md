@@ -1,28 +1,45 @@
 WARNING: DISCLAIMER
 
-    Use at Your Own Risk: This script is provided "as is" and is intended for educational purposes only. You acknowledge that you are using it at your own risk.
-
-    No Guarantees: I do not guarantee the effectiveness of this script in fixing any issues or improving the performance of your computer. Results may vary based on individual systems and configurations.
-
-    Potential Risks: Running this script may result in unintended consequences, including but not limited to:
-        Data loss
-        System instability
-        Loss of functionality of certain applications
-        Changes to system settings that may affect performance or usability
-
-    Backup Your Data: It is strongly recommended that you back up all important data before using this script. This includes documents, photos, and any other important files. You are responsible for maintaining your own data backups.
-
-    Professional Help: If you are unsure about any of the actions taken by this script or if you are experiencing issues with your computer, please seek professional assistance.
-
-    Indemnification: You agree to indemnify and hold harmless the author of this script from any claims, damages, losses, or expenses arising from your use of this script.
-
-    Compliance with Laws: You are responsible for ensuring that your use of this script complies with all applicable laws and regulations in your jurisdiction.
+ 
+Use at Your Own Risk: This script is provided "as is" and is intended for educational purposes only. You acknowledge that you are using it at your own risk.
 
 
-Fixer & Tweaker Overview
 
-Fixer is a tool designed to help you resolve various issues with your computer. It aims to automate the processes of diagnosing and troubleshooting problems to improve the performance and stability of your system. With Fixer, you can quickly identify and fix common errors, optimize the operation of your operating system, and ensure more reliable functionality.
 
-Tweaker is the actual tweaking tool that provides you with a set of settings and optimizations to enhance the performance of your operating system. With Tweaker, you can adjust Windows parameters, disable unnecessary features, and boost your computer's efficiency. It includes a wide array of options, allowing you to tailor your system to meet your personal preferences and needs.
 
-Use Fixer to troubleshoot issues and Tweaker for customization and optimization of your system, achieving maximum efficiency and comfort in your work!
+
+
+
+This **Windows Tweaker** batch file is a multifunctional script designed to enhance system performance, clean up unnecessary files, and configure various settings 
+on a Windows operating system. Below is a detailed description of the script's functions:
+
+### 1. **Create a System Restore Point**
+   - The script starts by asking the user if they want to create a system restore point before proceeding with any changes. This is useful in case the user wants to revert to a previous system state in the event of any issues after running the script.
+
+### 2. **Main Menu**
+   - The main menu provides four options:
+     1. **System Cleanup** — Cleans up various unnecessary files and clears caches.
+     2. **System Optimization** — Applies different tweaks to improve system performance.
+     3. **System Information** — Displays system information (this part is incomplete in the script).
+     4. **Exit** — Exits the script.
+
+### 3. **System Cleanup Section**
+   In this section, the script performs several cleanup tasks:
+   - Removes temporary files (`%temp%`), system files, and update files.
+   - Clears image caches, thumbnails, and system logs.
+   - Empties the Recycle Bin and recent files history.
+   - Cleans up browser caches (for Chrome, Firefox, Edge).
+   - Clears font and memory caches.
+   - Flushing DNS and deleting memory dumps.
+   - Removes unnecessary Windows apps (e.g., 3D Builder, Calculator, Weather).
+
+### 4. **System Optimization Section**
+   This section applies performance enhancements by:
+   - Disabling unwanted Windows services, such as indexing and telemetry.
+   - Enabling some performance tweaks like turning off Windows animations, reducing background processes, and configuring power settings for optimal performance.
+
+### 5. **Summary**
+   - The script provides a quick and efficient way to clean and optimize a Windows system, removing bloatware, clearing out old files, and improving system speed.
+   - It helps to declutter the system by eliminating unnecessary files and applications that can slow down performance.
+
+Overall, this **Windows Tweaker** is aimed at users who want to quickly enhance and maintain their Windows systems without having to manually adjust individual settings.
